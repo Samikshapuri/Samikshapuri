@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samiksha</h1>
 <h3 align="center">An avid learner of technology and a developer by trade!👩‍💻</h3>
-<img align="right" alt="girl" src="https://thumbs.gfycat.com/KindGleefulEft-size_restricted.gif" height=" 150px" width="150px" />
+<img align="right" alt="girl" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height=" 250px" width="250px" />
 
 - 🌱 I’m currently learning **React and Sass**
 
