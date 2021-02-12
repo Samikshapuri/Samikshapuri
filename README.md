@@ -8,7 +8,7 @@
 
 - 😃Pronouns: She/Her
 
-- ⚡ Fun fact: **I can sleep all day😂**
+- ⚡ Fun fact: **I can sleep all day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
